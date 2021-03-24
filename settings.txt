@@ -1,0 +1,9 @@
+startLo = 231812223
+startHi = 0
+range = 33554432
+lutSize = 16
+delaySize = 20
+globalSize = 20
+localSize = 7
+kernelsPerReduction = 5
+buildOptions = -D VARIABLE_LENGTH
